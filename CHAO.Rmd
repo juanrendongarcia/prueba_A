@@ -1,5 +1,5 @@
 ---
-title: "hola"
+title: "CHAO"
 author: "Juan F"
 date: "25 de agosto de 2017"
 output: html_document
@@ -27,9 +27,4 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the pl
-
-
-* CAMBIO 1 
-
-* CAMBIO 2
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
